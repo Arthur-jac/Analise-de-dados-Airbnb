@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Projeto em Python de análise de dados, que simula um ambiente de trabalho semelhante ao real e responde a perguntas hipotéticas para ajudar na tomada de decisão.
+Projeto em Python de análise de dados, utilizando uma base de dados do Airbnb, que simula um ambiente de trabalho semelhante ao real e responde a perguntas hipotéticas para ajudar na tomada de decisão.
 
 ## Objetivo
 
