@@ -8,6 +8,10 @@ Projeto em Python de análise de dados, utilizando uma base de dados do Airbnb, 
 
 É um projeto feito para estudo e treino. 
 
+## Observação
+
+Este projeto foi dividido em duas partes as respostas, dividido em dois arquivos separados.
+
 ## Tecnologias usadas
 
 * Python 3
